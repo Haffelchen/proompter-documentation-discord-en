@@ -3,7 +3,6 @@
 - **[/close-thread](<https://discord.com/channels/1100933695986208849/1149296440288481352>)**
 - **[/doctor](https://discord.com/channels/1100933695986208849/1128700322638991420) **
 - **[/index](https://discord.com/channels/1100933695986208849/1140419285915795476) **
-- **[/insight](https://discord.com/channels/1100933695986208849/1135372515804450878) **
 - **[/roundtable](https://discord.com/channels/1100933695986208849/1136216952281505793) **
 - **[/social-media](https://discord.com/channels/1100933695986208849/1128700831311597638) **
 - **[/staff-settings](https://discord.com/channels/1100933695986208849/1140580334652624997) **
@@ -62,7 +61,6 @@
 - **[/download](<https://discord.com/channels/1100933695986208849/1149342624931647608>)**
 - **[/find](https://discord.com/channels/1100933695986208849/1136861683936141394) **
 - **[/index](https://discord.com/channels/1100933695986208849/1140419285915795476) **
-- **[/insight](https://discord.com/channels/1100933695986208849/1135372515804450878) **
 - **[/portal](https://discord.com/channels/1100933695986208849/1128854588750053446) **
 - **[/profile](<https://discord.com/channels/1100933695986208849/1153688751260840108>)**
 - **[/prompt](https://discord.com/channels/1100933695986208849/1128854636632223816) **
@@ -84,6 +82,7 @@ _ _
 ## [Context Menu Commands](<https://discord.com/channels/1100933695986208849/1165481852358905888>)
 - **[Translate](<https://discord.com/channels/1100933695986208849/1165482103316684950>)**
 - **[Bookmark Message](<https://discord.com/channels/1100933695986208849/1171412052389146665>)**
+- **[Dashboard](<https://discord.com/channels/1100933695986208849/1186804200840101888>)**
 
 
 

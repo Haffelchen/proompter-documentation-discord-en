@@ -16,7 +16,7 @@
 ## [Context Menu Commands](<https://discord.com/channels/1100933695986208849/1165481852358905888>)
 - **[Translate](<https://discord.com/channels/1100933695986208849/1165482103316684950>)**
 - **[Bookmark Message](<https://discord.com/channels/1100933695986208849/1171412052389146665>)**
-
+- **[Dashboard](<https://discord.com/channels/1100933695986208849/1186804200840101888>)**
 
 
 

@@ -32,7 +32,13 @@
   - Permission overrides for roles
 
 
-_ _
+- __**`chatbot-forum-channel`**__
+  - *[Optional, Channel](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
+  - Define a separate forum where the chatbot posts for this Tier will be created
+- __**`hide-download-button`**__
+  - *[Optional, Boolean](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
+  - If true, no "Download" button will be added to the prompt posts
+
 </tier list-tiers:1128274313259257856>
 > Lists all forum-channels which have a tier associated
 
@@ -73,12 +79,20 @@ _ _
 - __**`description`**__
   - *[Optional, String](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
   - New description of the tier which will show between the title and the first embed
+
+
 - __**`is-public`**__
   - *[Optional, Boolean](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
   - If false, this tier is only visible for roles with `VIEW` permissions
 - __**`role-permissions`**__
   - *[Optional, String](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
   - Permission overrides for roles. Public channels have `VIEW` for everyone by default
+- __**`chatbot-forum-channel`**__
+  - *[Optional, Channel](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
+  - Define a separate forum where the chatbot posts for this Tier will be created
+- __**`hide-download-button`**__
+  - *[Optional, Boolean](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278889156296724>)*
+  - If true, no "Download" button will be added to the prompt posts
 
 
 _ _

@@ -4,7 +4,6 @@
 
 ## Usage
 - Use the **</profile gpt-settings-global set:1153117013506543626>** command and pass all [options](<https://discord.com/channels/1100933695986208849/1139918131737923614/1149278821565079614>) you want to change
-
 **Example**
 ```
 /profile gpt-settings-global set model:gpt-4-0314 temperature:1.2 top-p:0.3
@@ -13,11 +12,8 @@
 
 
 ## Limitations
-There are certain limitations about how settings are applied
-- [Public conversations](<https://discord.com/channels/1100933695986208849/1168754593434439700>)
-> Settings are not applied at all
-- [Private conversations](<https://discord.com/channels/1100933695986208849/1168754593434439700>)
-> If you are an admin of the conversation, the settings will be applied, otherwise not
+> Due to the current infrastructure we have to limit custom model settings to [private conversations](<https://discord.com/channels/1100933695986208849/1168754593434439700>)
+> If you interact with the chatbots in a [public conversations](<https://discord.com/channels/1100933695986208849/1168754593434439700>), the default model (`gpt-3.5-turbo-16k`) is used
 
 
 
